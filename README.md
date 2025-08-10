@@ -28,7 +28,7 @@ Short one-liner describing what the project does and who it's for.
 ## About
 A short paragraph that explains the project in slightly more detail. Explain the problem it solves and why it exists.
 
-## Features
+## 
 - Feature A — quick explanation
 - Feature B — quick explanation
 - Feature C — quick explanation
