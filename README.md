@@ -5,7 +5,7 @@ Short one-liner describing what the project does and who it's for.
 
 ---
 
-## Table of Contents
+## Table of 
 - [About]
 - [Features](#features)
 - [Demo](#demo)
