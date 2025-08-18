@@ -1,11 +1,11 @@
-# Project  sadasdas
+# Project  Name
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](REPLACE_WITH_CI_URL) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![Version](https://img.shields.io/badge/version-0.1.0-orange.svg)]()
 
 Short one-liner describing what the project does and who it's for.
 
 ---
 
-## Table of 
+## Table of Content
 - [About]
 - [Features](#features)
 - [Demo](#demo)
